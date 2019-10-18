@@ -1,1 +1,2 @@
-Just an example to fix an error by creating branches
+Just an example to fix an error by creating branches.
+The error has been resolved
